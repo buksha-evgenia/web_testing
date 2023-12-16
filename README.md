@@ -1,6 +1,6 @@
 # 🛒 Web shop testing 
 
-I`ve tested webstore http://demowebshop.tricentis.com/ and prepared different types of testing documentation: 
+I`ve tested webstore http://demowebshop.tricentis.com/ and written testing documentation: 
 
  <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1EMGE2F2m5QGr7nFTs4_YOaWZuoPmvdRD/edit#gid=333243813">Test plan</a> describing resources, functional in scope and out of scope, entry and exit criteria, risks and timescales. </li> 
